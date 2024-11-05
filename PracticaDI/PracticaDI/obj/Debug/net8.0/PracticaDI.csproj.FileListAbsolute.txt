@@ -1,0 +1,14 @@
+C:\Users\Desarrollador\source\repos\PracticaDI\PracticaDI\bin\Debug\net8.0\PracticaDI.exe
+C:\Users\Desarrollador\source\repos\PracticaDI\PracticaDI\bin\Debug\net8.0\PracticaDI.deps.json
+C:\Users\Desarrollador\source\repos\PracticaDI\PracticaDI\bin\Debug\net8.0\PracticaDI.runtimeconfig.json
+C:\Users\Desarrollador\source\repos\PracticaDI\PracticaDI\bin\Debug\net8.0\PracticaDI.dll
+C:\Users\Desarrollador\source\repos\PracticaDI\PracticaDI\bin\Debug\net8.0\PracticaDI.pdb
+C:\Users\Desarrollador\source\repos\PracticaDI\PracticaDI\obj\Debug\net8.0\PracticaDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollador\source\repos\PracticaDI\PracticaDI\obj\Debug\net8.0\PracticaDI.AssemblyInfoInputs.cache
+C:\Users\Desarrollador\source\repos\PracticaDI\PracticaDI\obj\Debug\net8.0\PracticaDI.AssemblyInfo.cs
+C:\Users\Desarrollador\source\repos\PracticaDI\PracticaDI\obj\Debug\net8.0\PracticaDI.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollador\source\repos\PracticaDI\PracticaDI\obj\Debug\net8.0\PracticaDI.dll
+C:\Users\Desarrollador\source\repos\PracticaDI\PracticaDI\obj\Debug\net8.0\refint\PracticaDI.dll
+C:\Users\Desarrollador\source\repos\PracticaDI\PracticaDI\obj\Debug\net8.0\PracticaDI.pdb
+C:\Users\Desarrollador\source\repos\PracticaDI\PracticaDI\obj\Debug\net8.0\PracticaDI.genruntimeconfig.cache
+C:\Users\Desarrollador\source\repos\PracticaDI\PracticaDI\obj\Debug\net8.0\ref\PracticaDI.dll
